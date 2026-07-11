@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+
+  body {
+    background-color: #FAF7EF;
+    color: #1A0800;
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+
+  /* ── Overlines ───────────────────────────────── */
+  .overline-terra {
+    display: block;
+    color: #C0592A;
+    font-size: 10px;
+    letter-spacing: 0.38em;
+    text-transform: uppercase;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .section-title {
+    display: block;
+    color: #C9961A;
+    font-size: 10px;
+    letter-spacing: 0.38em;
+    text-transform: uppercase;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+
+  /* ── Headings (color set by component) ───────── */
+  .section-heading {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  @media (min-width: 768px) {
+    .section-heading { font-size: 3rem; }
+  }
+
+  /* ── Divider ─────────────────────────────────── */
+  .gold-divider {
+    width: 4rem;
+    height: 2px;
+    background-color: #C9961A;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  /* ── Buttons — light bg ─────────────────────── */
+  .btn-primary {
+    display: inline-block;
+    background-color: #C0592A;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-weight: 700;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  .btn-primary:hover { background-color: rgba(192, 89, 42, 0.88); }
+  .btn-primary:active { transform: scale(0.98); }
+
+  .btn-ghost {
+    display: inline-block;
+    border: 2px solid rgba(26, 8, 0, 0.3);
+    color: #1A0800;
+    padding: 1rem 2rem;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-weight: 700;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  .btn-ghost:hover {
+    border-color: #1A0800;
+    background-color: #1A0800;
+    color: #ffffff;
+  }
+  .btn-ghost:active { transform: scale(0.98); }
+
+  /* ── Buttons — dark bg ──────────────────────── */
+  .btn-primary-inv {
+    display: inline-block;
+    border: 1px solid #C9961A;
+    color: #C9961A;
+    padding: 1rem 2rem;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-weight: 700;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  .btn-primary-inv:hover {
+    background-color: #C9961A;
+    color: #180A00;
+  }
+
+  .btn-ghost-inv {
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    padding: 1rem 2rem;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-weight: 700;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  .btn-ghost-inv:hover { border-color: white; }
+
+  /* ── Cards ───────────────────────────────────── */
+  .card-light {
+    background-color: #ffffff;
+    border: 1px solid #E5D4BC;
+  }
+  .card-dark {
+    background-color: #1E0D02;
+    border: 1px solid #3A1A05;
+  }
+}
+
+/* ── Scrollbar ───────────────────────────────── */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: #FAF7EF; }
+::-webkit-scrollbar-thumb { background: #C9961A; border-radius: 3px; }
+
+/* ── Nav underline ───────────────────────────── */
+.nav-link { position: relative; }
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -3px; left: 0;
+  width: 0; height: 2px;
+  background: #C0592A;
+  transition: width 0.25s ease;
+}
+.nav-link:hover::after,
+.nav-link.active::after { width: 100%; }

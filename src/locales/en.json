@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "home": "Home",
+    "story": "Story",
+    "cast": "Cast",
+    "crew": "Crew",
+    "sponsors": "Sponsors",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "lang_en": "EN",
+    "lang_ha": "HA"
+  },
+  "hero": {
+    "badge": "A Groundbreaking Television Series",
+    "heritage": "THE HERITAGE",
+    "horizon": "THE HORIZON",
+    "tagline": "Rooted in Heritage. Crafted for the World.",
+    "description": "A 13-episode dramatic series exploring the tension between cultural tradition and modern life in Northern Nigeria.",
+    "cta_story": "Discover the Story",
+    "cta_cast": "Meet the Cast",
+    "stat_episodes": "Episodes",
+    "stat_minutes": "Minutes",
+    "stat_broadcast": "Days Broadcast",
+    "stat_ages": "Ages"
+  },
+  "story": {
+    "overline": "The Story",
+    "heading": "Where Tradition Meets the Modern World",
+    "synopsis": "NASABA is a 13-episode dramatic series exploring the tension between cultural tradition and modern life in Northern Nigeria. Each episode runs 45 minutes, and the series is designed for year-long broadcast across cable, satellite, digital streaming, and social platforms.",
+    "para1": "Set against the rich tapestry of Northern Nigerian culture, NASABA weaves together the lives of young professionals caught between the weight of family expectation and the pull of their own desires.",
+    "para2": "From the boardrooms of Kano to the kitchens of celebrated restaurants, from fashion houses redefining contemporary Arewa style to the wards of a city hospital — NASABA explores what it truly means to honour your heritage while forging your own path.",
+    "para3": "With every choice carrying monumental consequences, NASABA is a story about love, loyalty, legacy, and the invisible cages we build for ourselves.",
+    "themes_label": "Core Themes",
+    "pull_quote": "A story about love, loyalty, legacy, and the invisible cages we build for ourselves.",
+    "pull_attr": "NASABA Productions",
+    "platform_cable": "Cable",
+    "platform_satellite": "Satellite",
+    "platform_streaming": "Streaming",
+    "trailer_title": "NASABA Official Trailer"
+  },
+  "cast_ui": {
+    "overline": "Cast & Crew",
+    "tab_cast": "Cast",
+    "tab_crew": "Crew",
+    "heading_cast": "The Characters",
+    "heading_crew": "The Crew",
+    "subtitle_cast": "Nine lives. Nine stories. One tapestry of tradition, ambition, and the heart.",
+    "subtitle_crew": "The people bringing NASABA to life behind the camera.",
+    "view_character": "View Character →",
+    "close": "Close ✕"
+  },
+  "characters": {
+    "abdul": {
+      "name": "ABDUL",
+      "credit": "as Abdul Danladi",
+      "archetype": "The Heart in Conflict",
+      "category": "Corporate & Luxury Context",
+      "quote": "His future was planned. His heart has other ideas.",
+      "bio": "The cherished only child of his family, Abdul carries the weight of tradition and expectation with quiet dignity. He is known for his unwavering loyalty and sense of responsibility.",
+      "details": [
+        "A respected and ambitious Relationship Manager at OTECH BANK, where he excels in navigating complex client portfolios and high-value transactions.",
+        "He shares an unbreakable, brotherly bond with Ahmad. Their lives — from family friendships to personal ambitions — have been intricately intertwined since childhood.",
+        "Beneath his polished exterior lies a man caught in the silent struggle between deep-seated obligation and the whispers of his own heart."
+      ],
+      "summary": "Abdul embodies the universal clash between duty and desire. His world is one of privilege, pressure, and perfect appearances. Watch as this good son and loyal friend navigates the invisible cage of expectations, where every choice has monumental consequences."
+    },
+    "zahra": {
+      "name": "ZAHRA",
+      "credit": "as Zahra",
+      "archetype": "The Modern Arewa Woman",
+      "category": "Fashion & Lifestyle",
+      "quote": "Some legacies are woven in thread. Mine is being written in choices I dare to make.",
+      "bio": "The creative force and founder of 'Arewa Malaabis by Mems,' a fashion house redefining contemporary Northern style.",
+      "details": [
+        "A brilliant recent graduate of MAAUK, where she honed both her intellect and her visionary eye.",
+        "Her atelier is a canvas where heritage meets modern desire, crafting pieces for love and identity.",
+        "Her world is anchored by profound bonds. But when tradition rearranges her heart, she must face the ultimate design challenge."
+      ],
+      "summary": "Zahra's journey is a compelling tapestry of ambition, sophisticated style, and deep emotional loyalty. She is the modern Arewa woman, designing a future no one prepared her for."
+    },
+    "ahmad": {
+      "name": "AHMAD",
+      "credit": "as Ahmad",
+      "archetype": "The Man in the Middle",
+      "category": "Technology & Innovation",
+      "quote": "Loyalty ties him down. Love tears him apart.",
+      "bio": "A sharp, dedicated young professional at a leading IT & Digital Solutions firm.",
+      "details": [
+        "Abdul's closest friend since childhood — their bond forged through family friendships that run as deep as business partnerships.",
+        "Charming yet introverted, Ahmad observes the world with a thoughtful intensity. He is the steady rock in his friendships.",
+        "Caught between unwavering friendship and a love that was never supposed to be, he navigates a path where every right feeling leads to a wrong situation."
+      ],
+      "summary": "Ahmad is the character who speaks volumes in the quiet moments. His story explores the profound conflict between honour, heartbreak, and impossible choices."
+    },
+    "amira": {
+      "name": "AMIRA",
+      "credit": "as Amira",
+      "archetype": "At the Heart of a Circle",
+      "category": "Hospitality & Lifestyle",
+      "quote": "Some recipes are passed down. Mine are written from the soul.",
+      "bio": "The visionary founder and CEO of CAVIATA, the celebrated restaurant known as the city's ultimate destination for flavour.",
+      "details": [
+        "A distinguished graduate of the prestigious Maryam Abatcha American University, Kano (MAAUK).",
+        "CAVIATA is an extension of Amira's soul — a place where food, memory, love, and connection are crafted with meticulous care.",
+        "Her life is built on deep bonds of friendship and shared dreams. But when tradition disrupts her recipe, she must discover true resilience."
+      ],
+      "summary": "Amira's world is a sizzling blend of culinary passion, entrepreneurial drive, and heartfelt loyalty. Follow her as she balances the demands of a thriving business with the complexities of love."
+    },
+    "dr-umar": {
+      "name": "DR. UMAR",
+      "credit": "as Dr. Umar",
+      "archetype": "The Trusted Professional",
+      "category": "Medicine & Ethics",
+      "quote": "In the ER, every second is a choice. In life, some choices haunt you forever.",
+      "bio": "A respected and compassionate doctor at Kano Medical Centre. He is the longtime family physician for Abdul's family.",
+      "details": [
+        "He enters the story as a beacon of stability and kindness for Amira, offering solace in the wake of her heartbreak.",
+        "His professional duty and personal desires become tragically intertwined when a devastating crisis is rushed into his ER.",
+        "Faced with an impossible, life-altering decision where every option leads to profound loss, he must rely on his oath."
+      ],
+      "summary": "Dr. Umar represents the collision of duty, love, and ethics. He is the calm in the storm, forced to make a call that will change the future of everyone he cares about."
+    },
+    "alhaji-ahmad": {
+      "name": "ALH. AHMAD",
+      "credit": "as Alhaji Ahmad",
+      "archetype": "The Brother & Guardian",
+      "category": "Business & Legacy",
+      "quote": "His word built an empire. His decision will redefine a family.",
+      "bio": "A self-made man and respected business leader, he is the co-founder and Chairman of SETRAD Company Nigeria Limited.",
+      "details": [
+        "A man of deep family duty, he serves as the guardian and uncle to his late brother's daughter, Amina.",
+        "He is a devoted husband and father to his only son, Abdul. His family structure is a close-knit tapestry of kinship.",
+        "Believing he is weaving the family closer together, he makes a momentous decision to unite two branches of the family through marriage."
+      ],
+      "summary": "Alhaji Ahmad represents the formidable and loving weight of tradition, legacy, and paternal authority. Watch as a man accustomed to building stability faces the unintended consequences when the plans of a patriarch collide with the hidden desires of the next generation."
+    },
+    "hajiya-saude": {
+      "name": "HAJ. SAUDE",
+      "credit": "as Hajiya Saude",
+      "archetype": "The Voice of Wisdom",
+      "category": "Family & Tradition",
+      "quote": "A family that prays together stays together — unless ambition tears it apart.",
+      "bio": "A woman of deep faith and quiet authority, Hajiya Saude is the matriarch whose counsel shapes decisions made in every room she enters.",
+      "details": [
+        "She carries the memory of the family's history and uses it as a compass in every crisis.",
+        "Her relationship with Hajiya Zainab forms an unspoken alliance that binds the two families together.",
+        "Though she rarely raises her voice, her silence speaks louder than any ultimatum."
+      ],
+      "summary": "Hajiya Saude is tradition made flesh — warm, immovable, and quietly sovereign. Her presence anchors the story's most pivotal moments."
+    },
+    "alhaji-mahmoud": {
+      "name": "ALH. MAHMOUD",
+      "credit": "as Alhaji Mahmoud",
+      "archetype": "The Reluctant Patriarch",
+      "category": "Business & Community",
+      "quote": "I built this for you. I only ask that you honour it.",
+      "bio": "A community elder and long-standing ally of Alhaji Ahmad's family, Alhaji Mahmoud is a man whose influence stretches far beyond the boardroom.",
+      "details": [
+        "His business interests intersect with SETRAD at critical junctures, making him both partner and potential rival.",
+        "He carries a past agreement with Alhaji Ahmad that becomes central to the drama as old promises resurface.",
+        "Beneath his stern exterior lies a father who questions whether his own sacrifices were worth the cost."
+      ],
+      "summary": "Alhaji Mahmoud represents a generation that built with bare hands and expects loyalty in return. His arc asks whether honour can survive when the world your children inherit no longer resembles the one you built."
+    },
+    "hajiya-zainab": {
+      "name": "HAJ. ZAINAB",
+      "credit": "as Hajiya Zainab",
+      "archetype": "The Quiet Power",
+      "category": "Family & Tradition",
+      "quote": "She sees everything. She says little. She holds everything.",
+      "bio": "The quiet power behind the Danladi name. Zainab sees everything, says little, and holds the family's deepest secrets.",
+      "details": [
+        "A devoted matriarch whose influence flows silently through every family decision.",
+        "Her wisdom is spoken in silence — a woman who has learned that the most powerful voice in a room is often the quietest.",
+        "Her unspoken alliance with Hajiya Saude forms the emotional backbone of the story's traditional world."
+      ],
+      "summary": "Hajiya Zainab is the unseen anchor of the Danladi family. Her choices, though rarely spoken, shape the destiny of every person she loves."
+    }
+  },
+  "crew": {
+    "crew-1": {
+      "name": "TBD",
+      "role": "Director",
+      "bio": "The visionary director bringing the world of NASABA to life on screen."
+    },
+    "crew-2": {
+      "name": "TBD",
+      "role": "Executive Producer",
+      "bio": "The executive producer overseeing the creative and commercial vision of the series."
+    },
+    "crew-3": {
+      "name": "TBD",
+      "role": "Showrunner / Head Writer",
+      "bio": "The creative architect behind NASABA's story, characters, and narrative structure."
+    },
+    "crew-4": {
+      "name": "TBD",
+      "role": "Producer",
+      "bio": "Responsible for managing production from pre-production through to final delivery."
+    },
+    "crew-5": {
+      "name": "TBD",
+      "role": "Director of Photography",
+      "bio": "The lens through which Northern Nigeria's beauty and drama is captured with cinematic precision."
+    },
+    "crew-6": {
+      "name": "TBD",
+      "role": "Production Designer",
+      "bio": "The creative mind behind every set, space, and visual environment in NASABA."
+    },
+    "crew-7": {
+      "name": "TBD",
+      "role": "Costume Designer",
+      "bio": "Crafting the wardrobe that tells each character's story before they speak a word."
+    },
+    "crew-8": {
+      "name": "TBD",
+      "role": "Original Score & Music",
+      "bio": "Composing the sonic landscape that carries the emotional heartbeat of the series."
+    }
+  },
+  "sponsors": {
+    "overline": "Our Partners",
+    "heading": "Sponsors",
+    "description": "Proudly supported by leading organisations who share our vision for world-class Nigerian storytelling.",
+    "supporting_label": "Supporting Partners",
+    "cta_overline": "Partner With Us",
+    "cta_heading": "Become a Sponsor",
+    "cta_description": "Align your brand with a groundbreaking production that reaches audiences across Northern Nigeria and the world.",
+    "cta_button": "Get In Touch"
+  },
+  "gallery": {
+    "overline": "Visual Journey",
+    "heading": "Gallery",
+    "tab_bts": "Behind the Scenes",
+    "tab_onset": "On Set",
+    "tab_events": "Events",
+    "coming_soon": "Gallery coming soon.",
+    "coming_hint": "Add images to src/assets/ and update Gallery.jsx"
+  },
+  "contact": {
+    "overline": "Reach Out",
+    "heading": "Get In Touch",
+    "subheading": "For press inquiries, sponsorship opportunities, or partnership proposals.",
+    "email_label": "Email",
+    "social_label": "Social Media",
+    "press_label": "Press & Partnerships",
+    "press_description": "For press kits, interview requests, sponsorship packages, or co-production inquiries, please use the contact form or email us directly.",
+    "form_name": "Full Name",
+    "form_email": "Email Address",
+    "form_subject": "Subject",
+    "form_message": "Message",
+    "form_submit": "Send Message",
+    "success_heading": "Message Sent",
+    "success_sub": "We'll be in touch with you shortly.",
+    "success_again": "Send Another"
+  },
+  "footer": {
+    "nav_label": "Navigation",
+    "connect_label": "Connect",
+    "tagline": "Rooted in Heritage. Crafted for the World.",
+    "region": "Northern Nigeria · For the World"
+  }
+}

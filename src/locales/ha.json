@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "home": "Gida",
+    "story": "Labari",
+    "cast": "Yan Wasa",
+    "crew": "Ma'aikata",
+    "sponsors": "Masu Tallafi",
+    "gallery": "Tarin Hotuna",
+    "contact": "Tuntuɓe Mu",
+    "lang_en": "EN",
+    "lang_ha": "HA"
+  },
+  "hero": {
+    "badge": "Jerin Talabijin Na Musamman",
+    "heritage": "AL'ADA",
+    "horizon": "ZAMANI",
+    "tagline": "An Gina kan Al'ada. An Ƙera domin Duniya.",
+    "description": "Jerin wasan kwaikwayo na kashi 13 da ke bincike yanayin rikici tsakanin al'adun gargajiya da rayuwar zamani a Arewacin Najeriya.",
+    "cta_story": "Gano Labarin",
+    "cta_cast": "Saduwa da Yan Wasan",
+    "stat_episodes": "Kashi",
+    "stat_minutes": "Mintuna",
+    "stat_broadcast": "Kwanaki na Watsa",
+    "stat_ages": "Shekarun"
+  },
+  "story": {
+    "overline": "Labarin",
+    "heading": "Inda Al'ada ta Haɗu da Zamani",
+    "synopsis": "NASABA jerin wasan kwaikwayo ne na kashi 13 wanda ke bincike yanayin rikici tsakanin al'adun gargajiya da rayuwar zamani a Arewacin Najeriya. Kowane kashi yana ɗaukar mintuna 45, kuma an tsara jerin don watsa shi tsawon shekara a kan kebul, tauraron dan adam, mallakar dijital, da hanyoyin sadarwar zamantakewa.",
+    "para1": "An sanya bisa ɗimbin al'adun Arewacin Najeriya masu arziki, NASABA na saƙa rayuwar matasan ƙwararru waɗanda suke kama tsakanin nauyin hasashe na iyali da jan da hankalin sha'awarsu.",
+    "para2": "Daga ɗakunan taro na Kano zuwa ɗakunan girki na gidajen abinci masu shahara, daga gidajen salon da ke sake fasalin salon Arewa na zamani zuwa bangon asibiti na birnin — NASABA na bincike abin da gaske yana nufin girmama gadонка yayin da kake share hanya ta kanka.",
+    "para3": "Tare da kowace zaɓi da ke ɗauke da sakamakon da ba a iya kwatantawa, NASABA labari ne game da ƙauna, amana, gado, da ƙafar da muke gina wa kanmu.",
+    "themes_label": "Jigon Labari",
+    "pull_quote": "Labari game da ƙauna, amana, gado, da ƙafar da muke gina wa kanmu.",
+    "pull_attr": "NASABA Productions",
+    "platform_cable": "Kebul",
+    "platform_satellite": "Tauraron Dan Adam",
+    "platform_streaming": "Yanar Gizo",
+    "trailer_title": "Gajeren Finafinai na Hukuma na NASABA"
+  },
+  "cast_ui": {
+    "overline": "Yan Wasa da Ma'aikata",
+    "tab_cast": "Yan Wasa",
+    "tab_crew": "Ma'aikata",
+    "heading_cast": "Haruffan Labari",
+    "heading_crew": "Ma'aikatan Samarwa",
+    "subtitle_cast": "Tara rayuwa. Tara labari. Zaren al'ada, ƙwazo, da zuciya.",
+    "subtitle_crew": "Mutanen da ke kawo NASABA zuwa rayuwa a bayan allo.",
+    "view_character": "Duba Haruffa →",
+    "close": "Rufe ✕"
+  },
+  "characters": {
+    "abdul": {
+      "name": "ABDUL",
+      "credit": "a matsayin Abdul Danladi",
+      "archetype": "Zuciyar da ke Rikici",
+      "category": "Kamfani da Alatu",
+      "quote": "Makararsa an shirya ta. Zuciyarsa tana da wata manufa.",
+      "bio": "Ƙaunataccen ɗa ɗaya a cikin iyalinsa, Abdul yana ɗauke da nauyin al'ada da hasashe da nutsuwa. An san shi da amincin da ba ya karye da kuma nauyin alhakin da ke cikinsa.",
+      "details": [
+        "Manajan Dangantaka mai daraja a OTECH BANK, inda yake nuna ƙwarewa wajen sarrafa abokan ciniki masu rikitarwa da ma'amaloli masu daraja.",
+        "Yana da haɗin gwiwa mai ƙarfi tare da Ahmad. Rayuwarsu — daga abota ta iyali zuwa manufofinsu na rayuwa — sun haɗu cikin rikitarwa tun yarinta.",
+        "A ƙarƙashin bayyanarsa ta kyau akwai mutumin da ke kama a gwagwarmayar shiru tsakanin wajibin da ya gaji da kuma muryoyin zuciyarsa."
+      ],
+      "summary": "Abdul yana wakiltar rikicin duniya tsakanin wajibi da sha'awa. Duniyarsa na cike da gata, matsin lamba, da kamun gindi kyau. Ka ga yadda wannan ɗan ƙwarai da amintaccen aboki ke tafiya cikin ƙafar da hasashe ya ƙirƙira, inda kowace zaɓi tana da sakamakon da ba a iya kwatantawa."
+    },
+    "zahra": {
+      "name": "ZAHRA",
+      "credit": "a matsayin Zahra",
+      "archetype": "Matar Arewa ta Zamani",
+      "category": "Kayan Sawa da Rayuwa",
+      "quote": "Wasu gadoji ana ƙerasu ta wata. Nawa ana rubuta shi ta zaɓuɓɓukan da nake yin ƙarfin hali don yin su.",
+      "bio": "Ƙwararren mai ƙirƙira da kuma wacce ta kafa 'Arewa Malaabis by Mems,' gidan salon da ke sake fasalin salon arewa na zamani.",
+      "details": [
+        "Wacce ta kammala karatu kwanan nan a MAAUK, inda ta haɓaka basirarta da kuma hangen nesarta.",
+        "Salon nasa wuri ne inda gado ke haɗuwa da sha'awar zamani, yana ƙera tufafi don ƙauna da asali.",
+        "Duniyarta ta dogara kan ƙaƙƙarfan alaƙa. Amma lokacin da al'ada ta sake shirya zuciyarta, dole ta fuskanci babban kalubalen salon."
+      ],
+      "summary": "Tafiyar Zahra labari ne mai ƙauna na ƙwazo, salon mai daraja, da amincin zuciya mai zurfi. Ita ce matar Arewa ta zamani, tana tsara nan gaba da ba kowa ya shirya ta ba."
+    },
+    "ahmad": {
+      "name": "AHMAD",
+      "credit": "a matsayin Ahmad",
+      "archetype": "Mutumin da ke Tsakiya",
+      "category": "Fasaha da Ƙirƙira",
+      "quote": "Amana na ɗaurar shi. Ƙauna na yayyage shi.",
+      "bio": "Ƙwararren matashi mai aiki tuƙuru a wata kamfanin fasahar IT da ke jagorancin masana'antu.",
+      "details": [
+        "Tsohon aboki na Abdul tun yarinta — haɗinsu da ya samo asali daga abota ta iyali wacce ta yi zurfin kamar haɗin gwiwa na kasuwanci.",
+        "Mai jan hankali amma mai natsuwa, Ahmad na kallon duniya da tsananin tunani. Shi ne dutsen da abotarsa ke dogara akai.",
+        "Kama tsakanin abota mai ƙarfi da ƙaunar da ba a faɗa ta kasancewa, yana tafiya hanya inda kowace ji mai kyau na kai ga mawuyacin hali."
+      ],
+      "summary": "Ahmad shi ne mutumin da ke magana da yawa a lokutan shiru. Labarinsa na bincike rikicin zaman lafiya tsakanin daraja, zuciyar ciwo, da zaɓuɓɓuka masu wahala."
+    },
+    "amira": {
+      "name": "AMIRA",
+      "credit": "a matsayin Amira",
+      "archetype": "Zuciyar da ke Cikin Da'ira",
+      "category": "Masauki da Rayuwa",
+      "quote": "Wasu girke-girke ana mika su gado. Nawa ana rubuta su daga zuciyar rayuwa.",
+      "bio": "Wacce ta kafa kuma babbar matar kamfanin CAVIATA, gidan abinci mai shahara da aka sani a matsayin wurin da ya fi kyau a garin saboda dandano.",
+      "details": [
+        "Wacce ta kammala karatu daga Jami'ar Maryam Abatcha ta Amurka, Kano (MAAUK) wadda ke da daraja.",
+        "CAVIATA ruwa ne daga zuciyar Amira — wuri inda abinci, tunawa, ƙauna, da haɗuwa ake ƙerawa da kula sosai.",
+        "Rayuwarta ta dogara kan alaƙa mai zurfi da mafarkai na bai-ɗaya. Amma lokacin da al'ada ta katse girke-girkenta, dole ta gano ƙarfin hali na gaske."
+      ],
+      "summary": "Duniyar Amira cakuda ce mai ƙarfi na son girki, jarigancin kasuwanci, da amincin zuciya. Ka bi ta yayin da take daidaita buƙatun kasuwancin da ke bunƙasa da rikitarwan ƙauna."
+    },
+    "dr-umar": {
+      "name": "LIKITA UMAR",
+      "credit": "a matsayin Likita Umar",
+      "archetype": "Ƙwararren da aka Amince da shi",
+      "category": "Magani da Ɗa'a",
+      "quote": "A ɗakin gaggawa, kowace dakika zaɓi ne. A rayuwa, wasu zaɓuɓɓuka na ƙwace ka har abada.",
+      "bio": "Likita mai daraja da tausayi a Cibiyar Kiwon Lafiya ta Kano. Shi ne likitan iyali na dadewa na iyalin Abdul.",
+      "details": [
+        "Yana shiga cikin labarin a matsayin hasken kwanciyar hankali da kirki ga Amira, yana bayar da taimako a lokacin da ta rasa ƙauna.",
+        "Wajibin sana'arsa da kuma sha'awoyin sa na mutum sun haɗu cikin bala'i lokacin da an kawo mawuyacin halin gaggawa zuwa ɗakin sa.",
+        "Fuskantar yanke shawara mai sauya rayuwa inda babu wata hanya da ba ta haifar da asara mai girma, dole ya dogara ga alkawarin sa."
+      ],
+      "summary": "Likita Umar yana wakiltar rikicin wajibi, ƙauna, da ɗa'a. Shi ne natsuwa a cikin guguwa, wanda aka tilasta masa yanke shawara da za ta sauya nan gaba na duk wanda ya ƙaunata."
+    },
+    "alhaji-ahmad": {
+      "name": "ALH. AHMAD",
+      "credit": "a matsayin Alhaji Ahmad",
+      "archetype": "Ɗan'uwa da Mai Kula",
+      "category": "Kasuwanci da Gado",
+      "quote": "Kalmarsa ta gina masara. Shawarwarsa za ta sake fasalin iyali.",
+      "bio": "Mutumin da ya gina kansa kuma shugaban kasuwanci mai daraja, shi ne wanda ya haɗa kafawa kuma Shugaban SETRAD Company Nigeria Limited.",
+      "details": [
+        "Mutumin da ke da wajibin iyali mai zurfi, yana aiki a matsayin mai kula da wa da kawun 'yar ɗan'uwansa da ya rasu, Amina.",
+        "Shi ne mijin sadaka kuma mahaifin ɗansa ɗaya, Abdul. Tsarin iyalinsa saƙin alaƙa mai ƙauna ne.",
+        "Da yake imani cewa yana ƙulla iyali ya fi kusanci, yana yanke shawara mai muhimmanci don haɗa reshe biyu na iyali ta hanyar aure."
+      ],
+      "summary": "Alhaji Ahmad yana wakiltar nauyin al'ada mai ƙarfi da ƙauna, gado, da ikon mahaifinsa. Ka ga yadda mutumin da ya saba gina kwanciyar hankali ke fuskantar sakamakon da ba a yi hasashen sa ba lokacin da shirin wani mahaifinsa ya yi karo da ɓoye son ran ƴan tsararsa."
+    },
+    "hajiya-saude": {
+      "name": "HAJ. SAUDE",
+      "credit": "a matsayin Hajiya Saude",
+      "archetype": "Muryar Hikima",
+      "category": "Iyali da Al'ada",
+      "quote": "Iyali da ke sallah tare suna zaune tare — sai dai idan ƙwazo ya yayyage ta.",
+      "bio": "Mace mai imani mai zurfi da ikon shiru, Hajiya Saude ita ce sarauniyar iyali wadda shawararsa na tsara yanke shawara a kowace ɗaki da ta shiga.",
+      "details": [
+        "Tana ɗauke da tarihin iyali kuma tana amfani da shi a matsayin kamfas a kowace rikici.",
+        "Dangantakarta da Hajiya Zainab na samar da kawance da ba a faɗa ba wanda ke ɗaure iyalai biyu tare.",
+        "Ko da yake ba ta taba ɗaga muryarta ba, shurunta na magana fiye da kowane ultimatum."
+      ],
+      "summary": "Hajiya Saude ita ce al'ada a cikin mutum — mai zafi, ba ta motsi, kuma mai mulkin shiru. Kasancewarta na ɗore mafi muhimmancin lokuta na labarin."
+    },
+    "alhaji-mahmoud": {
+      "name": "ALH. MAHMOUD",
+      "credit": "a matsayin Alhaji Mahmoud",
+      "archetype": "Mai Mulkin Iyali mai Jinkiri",
+      "category": "Kasuwanci da Al'umma",
+      "quote": "Na gina wannan dominku. Nake roƙo kawai ku girmama ta.",
+      "bio": "Dattijo na al'umma da kuma abokin dadewa na iyalin Alhaji Ahmad, Alhaji Mahmoud mutumin ne wanda tasirin sa ya wuce har bayan ɗakin taro.",
+      "details": [
+        "Harkokin kasuwancinsa sun haɗu da SETRAD a mahimman wurare, yana mai shi abokin haɗin gwiwa da kuma mai gasa mai yiwuwa.",
+        "Yana ɗauke da yarjejeniyar da ta gabata tare da Alhaji Ahmad wacce ta zama tsakiyar wasan kwaikwayo yayin da tsoffin alkawura suka sake bayyana.",
+        "A ƙarƙashin bayyanarsa mai tsauri akwai wani mahaifi wanda ke yin tambaya ko sadaukarwarsa ta cancanci kudin da ya biya."
+      ],
+      "summary": "Alhaji Mahmoud yana wakiltar tsara da ta gina da hannaye mara komai kuma tana sa ran aminci. Labarinsa na tambaya ko daraja za ta iya tsira lokacin da duniyar da yaranku suka gaji ba ta kama wacce kuke ginawa ba."
+    },
+    "hajiya-zainab": {
+      "name": "HAJ. ZAINAB",
+      "credit": "a matsayin Hajiya Zainab",
+      "archetype": "Ikon Shiru",
+      "category": "Iyali da Al'ada",
+      "quote": "Tana gani duka. Tana faɗa kaɗan. Tana ɗauke duka.",
+      "bio": "Ikon shiru a bayan sunan Danladi. Zainab tana gani duka, tana faɗa kaɗan, kuma tana ɗauke da asirran iyali mafi zurfi.",
+      "details": [
+        "Uwar iyali mai himma wadda tasirinta ke gudana a shiru ta kowace yanke shawara na iyali.",
+        "Hikimarta ana furta ta a shiru — mace da ta koyi cewa mafi ƙarfin muryar da ke cikin ɗaki sau da yawa mafi ƙasa ce.",
+        "Kawancenta da shiru tare da Hajiya Saude na samar da ginshiƙin motsin rai na duniyar al'adar labarin."
+      ],
+      "summary": "Hajiya Zainab ita ce jinginar da ba a gani ta iyalin Danladi. Zaɓuɓɓukanta, ko da yake ba a faɗa su ba, na tsara makomar kowane mutum da ta ƙaunata."
+    }
+  },
+  "crew": {
+    "crew-1": {
+      "name": "TBD",
+      "role": "Darakta",
+      "bio": "Mai gani mai ƙirƙira wanda ke kawo duniyar NASABA cikin rayuwa a kan allo."
+    },
+    "crew-2": {
+      "name": "TBD",
+      "role": "Manajan Samarwa",
+      "bio": "Manajan samarwa wanda ke kula da manufar ƙirƙira da kasuwanci ta jerin."
+    },
+    "crew-3": {
+      "name": "TBD",
+      "role": "Jagoran Rubutu / Babban Marubuci",
+      "bio": "Mai ginin labari wanda ke bayan tsarin NASABA, haruffan sa, da tsarin labarinsa."
+    },
+    "crew-4": {
+      "name": "TBD",
+      "role": "Mai Samarwa",
+      "bio": "Mai kula da samarwa daga farkon shiri har zuwa isar da shi a karshe."
+    },
+    "crew-5": {
+      "name": "TBD",
+      "role": "Daraktan Daukar Hoto",
+      "bio": "Tabarau wanda ke ɗaukar kyaun Arewacin Najeriya da wasan kwaikwayo da daidaiton fim."
+    },
+    "crew-6": {
+      "name": "TBD",
+      "role": "Mai Tsara Samarwa",
+      "bio": "Hankali mai ƙirƙira a bayan kowace wuri, sarari, da muhalli mai gani a cikin NASABA."
+    },
+    "crew-7": {
+      "name": "TBD",
+      "role": "Mai Tsara Tufafi",
+      "bio": "Yana ƙera kayan sutura wanda ke ba da labarin kowace hali kafin su faɗi kalma ɗaya."
+    },
+    "crew-8": {
+      "name": "TBD",
+      "role": "Kiɗa da Waƙoƙi na Asali",
+      "bio": "Yana tsara shimfidar sauti wanda ke ɗauke da bugun zuciyar motsin rai na jerin."
+    }
+  },
+  "sponsors": {
+    "overline": "Abokananmu",
+    "heading": "Masu Tallafi",
+    "description": "Muna alfahari da goyon bayan manyan ƙungiyoyi waɗanda ke raba manufarmu ta labari na duniya na Najeriya.",
+    "supporting_label": "Abokanan Tallafi",
+    "cta_overline": "Yi Haɗin Gwiwa Tare da Mu",
+    "cta_heading": "Zama Mai Tallafi",
+    "cta_description": "Haɗa alamar kasuwancinku da wani aiki mai sauya ra'ayi wanda ke isa ga masu sauraro a Arewacin Najeriya da kuma duk duniya.",
+    "cta_button": "Tuntuɓe Mu"
+  },
+  "gallery": {
+    "overline": "Tafiya ta Gani",
+    "heading": "Tarin Hotuna",
+    "tab_bts": "Bayan Allo",
+    "tab_onset": "A Filin Aiki",
+    "tab_events": "Tarurruka",
+    "coming_soon": "Hotuna za su zo nan gaba.",
+    "coming_hint": "Ƙara hotuna zuwa src/assets/ kuma sabunta Gallery.jsx"
+  },
+  "contact": {
+    "overline": "Tuntuɓe Mu",
+    "heading": "Tuntuɓe Mu",
+    "subheading": "Don tambayoyi daga jarida, damar tallafi, ko shawarwarin haɗin gwiwa.",
+    "email_label": "Imel",
+    "social_label": "Kafofin Watsa Labarai",
+    "press_label": "Jarida da Haɗin Gwiwa",
+    "press_description": "Don fakitin jarida, buƙatun hira, kunshin tallafi, ko tambayoyin haɗin gwiwa, da fatan za a yi amfani da fom ɗin tuntuba ko aiko da imel kai tsaye.",
+    "form_name": "Cikakken Suna",
+    "form_email": "Adireshin Imel",
+    "form_subject": "Batun Wasika",
+    "form_message": "Saƙo",
+    "form_submit": "Aika Saƙo",
+    "success_heading": "An Aika Saƙo",
+    "success_sub": "Za mu tuntube ku nan ba da jimawa ba.",
+    "success_again": "Aika Wani"
+  },
+  "footer": {
+    "nav_label": "Hanyar Tafiya",
+    "connect_label": "Haɗi",
+    "tagline": "An Gina kan Al'ada. An Ƙera domin Duniya.",
+    "region": "Arewacin Najeriya · Domin Duniya"
+  }
+}
